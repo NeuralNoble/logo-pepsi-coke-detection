@@ -1,6 +1,19 @@
 # Pepsi-Coke Logo Detection 
 This project is a logo detection pipeline that utilizes a YOLO model to detect Pepsi and Coca-Cola logos in video files. The pipeline extracts frames and timestamps from videos, loads the YOLO model, detects logos in frames, processes detection results, and saves the results to a JSON file. Outputs include timestamps at which logos were detected, the size of the bounding box, and the distance from the center of the frame.
 
+## Table of Contents 
+
+| File        | Description                                                        |
+|-------------|--------------------------------------------------------------------|
+| `indexing.py` | Script to convert the label ID of one class by taking a labels file as input.                                |
+| `pipelinev2.py` | Pipeline to detect logos of pepsi and coke in video and save the output in json format with timestamps,size,distance from centre. |
+| `streamlitapp.py` | A WebApp made using streamlit where user can upload video and run inference and download the output.json and the processed video |
+| `gradioApp.py` | A WebApp made using gradio (easy for deployment on hugging face) where user can upload video and run inference and download the output.json and the processed video |
+
+
+
+
+
 
 ## Requirements
 - python3.9+
@@ -16,7 +29,7 @@ This project is a logo detection pipeline that utilizes a YOLO model to detect P
 
 1. Clone the Repository
    ```
-   git clone
+   git clone https://github.com/NeuralNoble/logo-pepsi-coke-detection
    cd logo-pepsi-coke-detection
    ```
 2. Create a Virtual Environment
