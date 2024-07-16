@@ -1,0 +1,1860 @@
+{
+    "Pepsi_info": [
+        {
+            "timestamp": 0.0,
+            "size": 144.06,
+            "distance_from_center": 326.6
+        },
+        {
+            "timestamp": 0.04,
+            "size": 142.84,
+            "distance_from_center": 327.23
+        },
+        {
+            "timestamp": 0.08,
+            "size": 144.09,
+            "distance_from_center": 328.16
+        },
+        {
+            "timestamp": 0.13,
+            "size": 142.64,
+            "distance_from_center": 326.79
+        },
+        {
+            "timestamp": 0.17,
+            "size": 144.0,
+            "distance_from_center": 326.36
+        },
+        {
+            "timestamp": 0.21,
+            "size": 144.74,
+            "distance_from_center": 325.35
+        },
+        {
+            "timestamp": 0.25,
+            "size": 142.7,
+            "distance_from_center": 322.49
+        },
+        {
+            "timestamp": 0.29,
+            "size": 141.86,
+            "distance_from_center": 322.38
+        },
+        {
+            "timestamp": 0.33,
+            "size": 142.97,
+            "distance_from_center": 322.27
+        },
+        {
+            "timestamp": 0.38,
+            "size": 143.15,
+            "distance_from_center": 322.13
+        },
+        {
+            "timestamp": 0.42,
+            "size": 143.29,
+            "distance_from_center": 321.76
+        },
+        {
+            "timestamp": 0.46,
+            "size": 144.81,
+            "distance_from_center": 321.38
+        },
+        {
+            "timestamp": 0.5,
+            "size": 145.18,
+            "distance_from_center": 320.96
+        },
+        {
+            "timestamp": 0.54,
+            "size": 142.62,
+            "distance_from_center": 320.05
+        },
+        {
+            "timestamp": 0.59,
+            "size": 143.24,
+            "distance_from_center": 318.85
+        },
+        {
+            "timestamp": 0.63,
+            "size": 142.82,
+            "distance_from_center": 317.06
+        },
+        {
+            "timestamp": 0.67,
+            "size": 144.39,
+            "distance_from_center": 316.65
+        },
+        {
+            "timestamp": 0.71,
+            "size": 145.35,
+            "distance_from_center": 316.56
+        },
+        {
+            "timestamp": 0.75,
+            "size": 143.13,
+            "distance_from_center": 314.83
+        },
+        {
+            "timestamp": 0.79,
+            "size": 143.04,
+            "distance_from_center": 314.34
+        },
+        {
+            "timestamp": 0.84,
+            "size": 143.81,
+            "distance_from_center": 313.9
+        },
+        {
+            "timestamp": 0.88,
+            "size": 146.79,
+            "distance_from_center": 314.26
+        },
+        {
+            "timestamp": 0.92,
+            "size": 148.44,
+            "distance_from_center": 314.89
+        },
+        {
+            "timestamp": 0.96,
+            "size": 149.08,
+            "distance_from_center": 314.7
+        },
+        {
+            "timestamp": 1.0,
+            "size": 149.35,
+            "distance_from_center": 313.77
+        },
+        {
+            "timestamp": 1.05,
+            "size": 146.75,
+            "distance_from_center": 311.52
+        },
+        {
+            "timestamp": 1.09,
+            "size": 145.08,
+            "distance_from_center": 310.32
+        },
+        {
+            "timestamp": 1.13,
+            "size": 148.61,
+            "distance_from_center": 310.59
+        },
+        {
+            "timestamp": 1.17,
+            "size": 148.38,
+            "distance_from_center": 309.78
+        },
+        {
+            "timestamp": 1.21,
+            "size": 148.0,
+            "distance_from_center": 309.05
+        },
+        {
+            "timestamp": 1.25,
+            "size": 147.37,
+            "distance_from_center": 310.14
+        },
+        {
+            "timestamp": 1.3,
+            "size": 146.3,
+            "distance_from_center": 311.54
+        },
+        {
+            "timestamp": 1.34,
+            "size": 144.1,
+            "distance_from_center": 311.95
+        },
+        {
+            "timestamp": 1.38,
+            "size": 144.26,
+            "distance_from_center": 313.7
+        },
+        {
+            "timestamp": 1.42,
+            "size": 145.53,
+            "distance_from_center": 315.92
+        },
+        {
+            "timestamp": 1.46,
+            "size": 147.73,
+            "distance_from_center": 319.04
+        },
+        {
+            "timestamp": 1.5,
+            "size": 147.43,
+            "distance_from_center": 319.68
+        },
+        {
+            "timestamp": 1.55,
+            "size": 147.09,
+            "distance_from_center": 320.36
+        },
+        {
+            "timestamp": 1.59,
+            "size": 146.45,
+            "distance_from_center": 320.71
+        },
+        {
+            "timestamp": 1.63,
+            "size": 145.31,
+            "distance_from_center": 320.91
+        },
+        {
+            "timestamp": 1.67,
+            "size": 145.63,
+            "distance_from_center": 320.38
+        },
+        {
+            "timestamp": 1.71,
+            "size": 146.0,
+            "distance_from_center": 319.5
+        },
+        {
+            "timestamp": 1.76,
+            "size": 148.66,
+            "distance_from_center": 319.78
+        },
+        {
+            "timestamp": 1.8,
+            "size": 146.18,
+            "distance_from_center": 319.69
+        },
+        {
+            "timestamp": 1.84,
+            "size": 146.73,
+            "distance_from_center": 320.32
+        },
+        {
+            "timestamp": 1.88,
+            "size": 147.51,
+            "distance_from_center": 322.17
+        },
+        {
+            "timestamp": 1.92,
+            "size": 147.57,
+            "distance_from_center": 323.02
+        },
+        {
+            "timestamp": 1.96,
+            "size": 147.58,
+            "distance_from_center": 324.05
+        },
+        {
+            "timestamp": 2.01,
+            "size": 148.18,
+            "distance_from_center": 324.11
+        },
+        {
+            "timestamp": 2.05,
+            "size": 147.85,
+            "distance_from_center": 321.18
+        },
+        {
+            "timestamp": 2.09,
+            "size": 144.27,
+            "distance_from_center": 318.18
+        },
+        {
+            "timestamp": 2.13,
+            "size": 143.38,
+            "distance_from_center": 316.6
+        },
+        {
+            "timestamp": 2.17,
+            "size": 143.29,
+            "distance_from_center": 315.85
+        },
+        {
+            "timestamp": 2.22,
+            "size": 143.62,
+            "distance_from_center": 314.42
+        },
+        {
+            "timestamp": 2.26,
+            "size": 142.24,
+            "distance_from_center": 312.8
+        },
+        {
+            "timestamp": 2.3,
+            "size": 141.21,
+            "distance_from_center": 311.45
+        },
+        {
+            "timestamp": 2.34,
+            "size": 145.06,
+            "distance_from_center": 312.36
+        },
+        {
+            "timestamp": 2.38,
+            "size": 146.03,
+            "distance_from_center": 312.33
+        },
+        {
+            "timestamp": 2.42,
+            "size": 148.37,
+            "distance_from_center": 311.45
+        },
+        {
+            "timestamp": 2.47,
+            "size": 149.32,
+            "distance_from_center": 310.39
+        },
+        {
+            "timestamp": 2.51,
+            "size": 149.37,
+            "distance_from_center": 309.1
+        },
+        {
+            "timestamp": 2.55,
+            "size": 149.66,
+            "distance_from_center": 306.97
+        },
+        {
+            "timestamp": 2.59,
+            "size": 148.71,
+            "distance_from_center": 304.35
+        },
+        {
+            "timestamp": 2.63,
+            "size": 147.91,
+            "distance_from_center": 303.73
+        },
+        {
+            "timestamp": 2.68,
+            "size": 147.33,
+            "distance_from_center": 303.39
+        },
+        {
+            "timestamp": 2.72,
+            "size": 148.03,
+            "distance_from_center": 304.04
+        },
+        {
+            "timestamp": 2.76,
+            "size": 149.45,
+            "distance_from_center": 305.5
+        },
+        {
+            "timestamp": 2.8,
+            "size": 149.16,
+            "distance_from_center": 307.94
+        },
+        {
+            "timestamp": 2.84,
+            "size": 148.63,
+            "distance_from_center": 309.61
+        },
+        {
+            "timestamp": 2.88,
+            "size": 148.56,
+            "distance_from_center": 309.44
+        },
+        {
+            "timestamp": 2.93,
+            "size": 148.22,
+            "distance_from_center": 309.44
+        },
+        {
+            "timestamp": 2.97,
+            "size": 149.38,
+            "distance_from_center": 308.26
+        },
+        {
+            "timestamp": 3.01,
+            "size": 150.45,
+            "distance_from_center": 307.16
+        },
+        {
+            "timestamp": 3.05,
+            "size": 150.35,
+            "distance_from_center": 306.7
+        },
+        {
+            "timestamp": 3.09,
+            "size": 150.65,
+            "distance_from_center": 306.56
+        },
+        {
+            "timestamp": 3.14,
+            "size": 150.23,
+            "distance_from_center": 305.4
+        },
+        {
+            "timestamp": 3.18,
+            "size": 148.31,
+            "distance_from_center": 301.6
+        },
+        {
+            "timestamp": 3.22,
+            "size": 147.03,
+            "distance_from_center": 296.34
+        },
+        {
+            "timestamp": 3.26,
+            "size": 147.0,
+            "distance_from_center": 292.25
+        },
+        {
+            "timestamp": 3.3,
+            "size": 145.17,
+            "distance_from_center": 286.33
+        },
+        {
+            "timestamp": 3.34,
+            "size": 148.7,
+            "distance_from_center": 284.55
+        },
+        {
+            "timestamp": 3.39,
+            "size": 121.23,
+            "distance_from_center": 498.42
+        },
+        {
+            "timestamp": 3.43,
+            "size": 121.7,
+            "distance_from_center": 498.29
+        },
+        {
+            "timestamp": 3.47,
+            "size": 121.34,
+            "distance_from_center": 498.39
+        },
+        {
+            "timestamp": 3.51,
+            "size": 121.29,
+            "distance_from_center": 498.46
+        },
+        {
+            "timestamp": 3.55,
+            "size": 121.46,
+            "distance_from_center": 498.35
+        },
+        {
+            "timestamp": 3.59,
+            "size": 121.58,
+            "distance_from_center": 498.34
+        },
+        {
+            "timestamp": 3.64,
+            "size": 121.49,
+            "distance_from_center": 498.46
+        },
+        {
+            "timestamp": 3.68,
+            "size": 121.61,
+            "distance_from_center": 498.45
+        },
+        {
+            "timestamp": 3.72,
+            "size": 121.57,
+            "distance_from_center": 498.4
+        },
+        {
+            "timestamp": 3.76,
+            "size": 121.66,
+            "distance_from_center": 498.37
+        },
+        {
+            "timestamp": 3.8,
+            "size": 121.54,
+            "distance_from_center": 498.34
+        },
+        {
+            "timestamp": 3.85,
+            "size": 121.21,
+            "distance_from_center": 498.38
+        },
+        {
+            "timestamp": 3.89,
+            "size": 121.34,
+            "distance_from_center": 498.38
+        },
+        {
+            "timestamp": 3.93,
+            "size": 121.51,
+            "distance_from_center": 498.36
+        },
+        {
+            "timestamp": 3.97,
+            "size": 121.46,
+            "distance_from_center": 498.31
+        },
+        {
+            "timestamp": 4.01,
+            "size": 121.66,
+            "distance_from_center": 498.35
+        },
+        {
+            "timestamp": 4.05,
+            "size": 121.35,
+            "distance_from_center": 498.45
+        },
+        {
+            "timestamp": 4.1,
+            "size": 121.48,
+            "distance_from_center": 498.45
+        },
+        {
+            "timestamp": 4.14,
+            "size": 121.49,
+            "distance_from_center": 498.41
+        },
+        {
+            "timestamp": 4.18,
+            "size": 121.49,
+            "distance_from_center": 498.41
+        },
+        {
+            "timestamp": 4.22,
+            "size": 121.65,
+            "distance_from_center": 498.37
+        },
+        {
+            "timestamp": 4.26,
+            "size": 121.26,
+            "distance_from_center": 498.45
+        },
+        {
+            "timestamp": 4.31,
+            "size": 121.35,
+            "distance_from_center": 498.47
+        },
+        {
+            "timestamp": 4.35,
+            "size": 121.39,
+            "distance_from_center": 498.28
+        },
+        {
+            "timestamp": 4.39,
+            "size": 121.77,
+            "distance_from_center": 498.12
+        },
+        {
+            "timestamp": 4.43,
+            "size": 121.08,
+            "distance_from_center": 498.36
+        },
+        {
+            "timestamp": 4.47,
+            "size": 121.18,
+            "distance_from_center": 498.33
+        },
+        {
+            "timestamp": 4.51,
+            "size": 121.5,
+            "distance_from_center": 498.27
+        },
+        {
+            "timestamp": 4.56,
+            "size": 121.39,
+            "distance_from_center": 498.28
+        },
+        {
+            "timestamp": 4.6,
+            "size": 121.4,
+            "distance_from_center": 498.28
+        },
+        {
+            "timestamp": 4.64,
+            "size": 121.36,
+            "distance_from_center": 498.29
+        },
+        {
+            "timestamp": 4.68,
+            "size": 121.43,
+            "distance_from_center": 498.28
+        },
+        {
+            "timestamp": 4.72,
+            "size": 121.22,
+            "distance_from_center": 498.3
+        },
+        {
+            "timestamp": 4.77,
+            "size": 121.16,
+            "distance_from_center": 498.34
+        },
+        {
+            "timestamp": 4.81,
+            "size": 121.25,
+            "distance_from_center": 498.33
+        },
+        {
+            "timestamp": 4.85,
+            "size": 121.57,
+            "distance_from_center": 498.26
+        },
+        {
+            "timestamp": 4.89,
+            "size": 121.37,
+            "distance_from_center": 498.35
+        },
+        {
+            "timestamp": 4.93,
+            "size": 121.69,
+            "distance_from_center": 498.34
+        },
+        {
+            "timestamp": 4.97,
+            "size": 121.37,
+            "distance_from_center": 498.44
+        },
+        {
+            "timestamp": 5.02,
+            "size": 121.77,
+            "distance_from_center": 498.29
+        },
+        {
+            "timestamp": 5.06,
+            "size": 121.38,
+            "distance_from_center": 498.43
+        },
+        {
+            "timestamp": 5.1,
+            "size": 121.08,
+            "distance_from_center": 498.49
+        },
+        {
+            "timestamp": 5.14,
+            "size": 121.69,
+            "distance_from_center": 498.27
+        },
+        {
+            "timestamp": 5.18,
+            "size": 121.44,
+            "distance_from_center": 498.35
+        },
+        {
+            "timestamp": 5.23,
+            "size": 121.45,
+            "distance_from_center": 498.38
+        },
+        {
+            "timestamp": 5.27,
+            "size": 121.71,
+            "distance_from_center": 498.36
+        },
+        {
+            "timestamp": 5.31,
+            "size": 121.61,
+            "distance_from_center": 498.36
+        },
+        {
+            "timestamp": 5.35,
+            "size": 121.54,
+            "distance_from_center": 498.38
+        },
+        {
+            "timestamp": 5.39,
+            "size": 121.94,
+            "distance_from_center": 498.29
+        },
+        {
+            "timestamp": 5.43,
+            "size": 121.85,
+            "distance_from_center": 498.31
+        },
+        {
+            "timestamp": 5.48,
+            "size": 121.48,
+            "distance_from_center": 498.38
+        },
+        {
+            "timestamp": 5.52,
+            "size": 121.22,
+            "distance_from_center": 498.42
+        },
+        {
+            "timestamp": 5.56,
+            "size": 121.61,
+            "distance_from_center": 498.3
+        },
+        {
+            "timestamp": 5.6,
+            "size": 121.63,
+            "distance_from_center": 498.22
+        },
+        {
+            "timestamp": 5.64,
+            "size": 121.95,
+            "distance_from_center": 498.24
+        },
+        {
+            "timestamp": 5.68,
+            "size": 121.91,
+            "distance_from_center": 498.29
+        },
+        {
+            "timestamp": 5.73,
+            "size": 121.91,
+            "distance_from_center": 498.26
+        },
+        {
+            "timestamp": 5.77,
+            "size": 121.95,
+            "distance_from_center": 498.32
+        },
+        {
+            "timestamp": 5.81,
+            "size": 121.8,
+            "distance_from_center": 498.29
+        },
+        {
+            "timestamp": 5.85,
+            "size": 121.72,
+            "distance_from_center": 498.33
+        },
+        {
+            "timestamp": 5.89,
+            "size": 121.71,
+            "distance_from_center": 498.32
+        },
+        {
+            "timestamp": 5.94,
+            "size": 121.69,
+            "distance_from_center": 498.33
+        },
+        {
+            "timestamp": 5.98,
+            "size": 121.58,
+            "distance_from_center": 498.33
+        },
+        {
+            "timestamp": 6.02,
+            "size": 121.79,
+            "distance_from_center": 498.24
+        },
+        {
+            "timestamp": 6.06,
+            "size": 121.58,
+            "distance_from_center": 498.37
+        },
+        {
+            "timestamp": 6.1,
+            "size": 121.51,
+            "distance_from_center": 498.35
+        },
+        {
+            "timestamp": 6.14,
+            "size": 203.6,
+            "distance_from_center": 249.22
+        },
+        {
+            "timestamp": 6.19,
+            "size": 202.96,
+            "distance_from_center": 249.26
+        },
+        {
+            "timestamp": 6.23,
+            "size": 202.89,
+            "distance_from_center": 249.29
+        },
+        {
+            "timestamp": 6.27,
+            "size": 203.7,
+            "distance_from_center": 249.21
+        },
+        {
+            "timestamp": 6.31,
+            "size": 203.73,
+            "distance_from_center": 249.25
+        },
+        {
+            "timestamp": 6.35,
+            "size": 203.88,
+            "distance_from_center": 249.17
+        },
+        {
+            "timestamp": 6.4,
+            "size": 203.58,
+            "distance_from_center": 249.15
+        },
+        {
+            "timestamp": 6.44,
+            "size": 203.57,
+            "distance_from_center": 249.15
+        },
+        {
+            "timestamp": 6.48,
+            "size": 203.7,
+            "distance_from_center": 249.19
+        },
+        {
+            "timestamp": 6.52,
+            "size": 204.13,
+            "distance_from_center": 249.12
+        },
+        {
+            "timestamp": 6.56,
+            "size": 203.49,
+            "distance_from_center": 249.19
+        },
+        {
+            "timestamp": 6.6,
+            "size": 203.8,
+            "distance_from_center": 249.16
+        },
+        {
+            "timestamp": 6.65,
+            "size": 204.01,
+            "distance_from_center": 249.1
+        },
+        {
+            "timestamp": 6.69,
+            "size": 203.65,
+            "distance_from_center": 249.14
+        },
+        {
+            "timestamp": 6.73,
+            "size": 204.13,
+            "distance_from_center": 249.11
+        },
+        {
+            "timestamp": 6.77,
+            "size": 203.99,
+            "distance_from_center": 249.13
+        },
+        {
+            "timestamp": 6.81,
+            "size": 202.81,
+            "distance_from_center": 249.47
+        },
+        {
+            "timestamp": 6.86,
+            "size": 202.59,
+            "distance_from_center": 249.5
+        },
+        {
+            "timestamp": 6.9,
+            "size": 203.26,
+            "distance_from_center": 249.37
+        },
+        {
+            "timestamp": 6.94,
+            "size": 203.13,
+            "distance_from_center": 249.36
+        },
+        {
+            "timestamp": 6.98,
+            "size": 203.35,
+            "distance_from_center": 249.4
+        },
+        {
+            "timestamp": 7.02,
+            "size": 203.34,
+            "distance_from_center": 249.39
+        },
+        {
+            "timestamp": 7.06,
+            "size": 203.2,
+            "distance_from_center": 249.44
+        },
+        {
+            "timestamp": 7.11,
+            "size": 203.43,
+            "distance_from_center": 249.4
+        },
+        {
+            "timestamp": 7.15,
+            "size": 203.4,
+            "distance_from_center": 249.4
+        },
+        {
+            "timestamp": 7.19,
+            "size": 203.47,
+            "distance_from_center": 249.38
+        },
+        {
+            "timestamp": 7.23,
+            "size": 203.68,
+            "distance_from_center": 249.35
+        },
+        {
+            "timestamp": 7.27,
+            "size": 203.76,
+            "distance_from_center": 249.42
+        },
+        {
+            "timestamp": 7.32,
+            "size": 203.97,
+            "distance_from_center": 249.44
+        },
+        {
+            "timestamp": 7.36,
+            "size": 204.0,
+            "distance_from_center": 249.42
+        },
+        {
+            "timestamp": 7.4,
+            "size": 203.79,
+            "distance_from_center": 249.44
+        },
+        {
+            "timestamp": 7.44,
+            "size": 203.82,
+            "distance_from_center": 249.45
+        },
+        {
+            "timestamp": 7.48,
+            "size": 203.78,
+            "distance_from_center": 249.48
+        },
+        {
+            "timestamp": 7.52,
+            "size": 203.74,
+            "distance_from_center": 249.49
+        },
+        {
+            "timestamp": 7.57,
+            "size": 203.75,
+            "distance_from_center": 249.5
+        },
+        {
+            "timestamp": 7.61,
+            "size": 203.81,
+            "distance_from_center": 249.48
+        },
+        {
+            "timestamp": 7.65,
+            "size": 203.61,
+            "distance_from_center": 249.47
+        },
+        {
+            "timestamp": 7.69,
+            "size": 203.56,
+            "distance_from_center": 249.48
+        },
+        {
+            "timestamp": 7.73,
+            "size": 203.34,
+            "distance_from_center": 249.44
+        },
+        {
+            "timestamp": 7.77,
+            "size": 117.75,
+            "distance_from_center": 523.62
+        },
+        {
+            "timestamp": 7.82,
+            "size": 119.14,
+            "distance_from_center": 525.07
+        },
+        {
+            "timestamp": 7.86,
+            "size": 119.06,
+            "distance_from_center": 525.05
+        },
+        {
+            "timestamp": 7.9,
+            "size": 117.72,
+            "distance_from_center": 523.61
+        },
+        {
+            "timestamp": 7.94,
+            "size": 119.08,
+            "distance_from_center": 525.06
+        },
+        {
+            "timestamp": 7.98,
+            "size": 117.61,
+            "distance_from_center": 523.62
+        },
+        {
+            "timestamp": 8.03,
+            "size": 119.04,
+            "distance_from_center": 525.04
+        },
+        {
+            "timestamp": 8.07,
+            "size": 118.96,
+            "distance_from_center": 525.04
+        },
+        {
+            "timestamp": 8.11,
+            "size": 117.67,
+            "distance_from_center": 523.55
+        },
+        {
+            "timestamp": 8.15,
+            "size": 118.96,
+            "distance_from_center": 525.05
+        },
+        {
+            "timestamp": 8.19,
+            "size": 119.01,
+            "distance_from_center": 525.08
+        },
+        {
+            "timestamp": 8.23,
+            "size": 119.04,
+            "distance_from_center": 525.09
+        },
+        {
+            "timestamp": 8.28,
+            "size": 119.01,
+            "distance_from_center": 525.1
+        },
+        {
+            "timestamp": 8.32,
+            "size": 119.01,
+            "distance_from_center": 525.09
+        },
+        {
+            "timestamp": 8.36,
+            "size": 119.18,
+            "distance_from_center": 525.03
+        },
+        {
+            "timestamp": 8.4,
+            "size": 118.9,
+            "distance_from_center": 525.08
+        },
+        {
+            "timestamp": 8.44,
+            "size": 118.67,
+            "distance_from_center": 525.14
+        },
+        {
+            "timestamp": 8.49,
+            "size": 118.69,
+            "distance_from_center": 525.1
+        },
+        {
+            "timestamp": 8.53,
+            "size": 118.95,
+            "distance_from_center": 525.05
+        },
+        {
+            "timestamp": 8.57,
+            "size": 118.94,
+            "distance_from_center": 525.06
+        },
+        {
+            "timestamp": 8.61,
+            "size": 118.95,
+            "distance_from_center": 525.08
+        },
+        {
+            "timestamp": 8.65,
+            "size": 118.85,
+            "distance_from_center": 525.1
+        },
+        {
+            "timestamp": 8.69,
+            "size": 118.82,
+            "distance_from_center": 525.13
+        },
+        {
+            "timestamp": 8.74,
+            "size": 118.73,
+            "distance_from_center": 525.12
+        },
+        {
+            "timestamp": 8.78,
+            "size": 118.65,
+            "distance_from_center": 525.13
+        },
+        {
+            "timestamp": 8.82,
+            "size": 118.66,
+            "distance_from_center": 525.09
+        },
+        {
+            "timestamp": 8.86,
+            "size": 118.63,
+            "distance_from_center": 525.03
+        },
+        {
+            "timestamp": 8.9,
+            "size": 118.41,
+            "distance_from_center": 525.07
+        },
+        {
+            "timestamp": 8.95,
+            "size": 118.47,
+            "distance_from_center": 525.06
+        },
+        {
+            "timestamp": 8.99,
+            "size": 118.48,
+            "distance_from_center": 525.11
+        },
+        {
+            "timestamp": 9.03,
+            "size": 118.58,
+            "distance_from_center": 525.11
+        },
+        {
+            "timestamp": 9.07,
+            "size": 118.66,
+            "distance_from_center": 525.1
+        },
+        {
+            "timestamp": 9.11,
+            "size": 118.68,
+            "distance_from_center": 525.12
+        },
+        {
+            "timestamp": 9.15,
+            "size": 118.85,
+            "distance_from_center": 525.12
+        },
+        {
+            "timestamp": 9.2,
+            "size": 118.97,
+            "distance_from_center": 525.15
+        },
+        {
+            "timestamp": 9.24,
+            "size": 118.98,
+            "distance_from_center": 525.16
+        },
+        {
+            "timestamp": 9.28,
+            "size": 119.31,
+            "distance_from_center": 525.13
+        },
+        {
+            "timestamp": 9.32,
+            "size": 117.94,
+            "distance_from_center": 523.62
+        },
+        {
+            "timestamp": 9.36,
+            "size": 119.47,
+            "distance_from_center": 525.09
+        },
+        {
+            "timestamp": 9.41,
+            "size": 119.32,
+            "distance_from_center": 525.06
+        },
+        {
+            "timestamp": 9.45,
+            "size": 119.33,
+            "distance_from_center": 525.11
+        },
+        {
+            "timestamp": 9.49,
+            "size": 119.15,
+            "distance_from_center": 525.06
+        },
+        {
+            "timestamp": 9.53,
+            "size": 119.44,
+            "distance_from_center": 525.0
+        },
+        {
+            "timestamp": 9.57,
+            "size": 119.34,
+            "distance_from_center": 525.08
+        },
+        {
+            "timestamp": 9.61,
+            "size": 119.38,
+            "distance_from_center": 525.08
+        },
+        {
+            "timestamp": 9.66,
+            "size": 119.35,
+            "distance_from_center": 525.04
+        },
+        {
+            "timestamp": 9.7,
+            "size": 119.41,
+            "distance_from_center": 525.08
+        },
+        {
+            "timestamp": 9.74,
+            "size": 119.28,
+            "distance_from_center": 525.1
+        },
+        {
+            "timestamp": 9.78,
+            "size": 119.43,
+            "distance_from_center": 525.03
+        },
+        {
+            "timestamp": 9.82,
+            "size": 232.13,
+            "distance_from_center": 285.22
+        },
+        {
+            "timestamp": 9.86,
+            "size": 232.6,
+            "distance_from_center": 285.41
+        },
+        {
+            "timestamp": 9.91,
+            "size": 232.85,
+            "distance_from_center": 285.35
+        },
+        {
+            "timestamp": 9.95,
+            "size": 232.88,
+            "distance_from_center": 285.4
+        },
+        {
+            "timestamp": 9.99,
+            "size": 233.09,
+            "distance_from_center": 285.47
+        },
+        {
+            "timestamp": 10.03,
+            "size": 234.18,
+            "distance_from_center": 286.58
+        },
+        {
+            "timestamp": 10.07,
+            "size": 234.13,
+            "distance_from_center": 286.48
+        },
+        {
+            "timestamp": 10.12,
+            "size": 234.32,
+            "distance_from_center": 286.47
+        },
+        {
+            "timestamp": 10.16,
+            "size": 234.35,
+            "distance_from_center": 286.58
+        },
+        {
+            "timestamp": 10.2,
+            "size": 234.21,
+            "distance_from_center": 286.56
+        },
+        {
+            "timestamp": 10.24,
+            "size": 234.31,
+            "distance_from_center": 286.66
+        },
+        {
+            "timestamp": 10.28,
+            "size": 234.92,
+            "distance_from_center": 286.92
+        },
+        {
+            "timestamp": 10.32,
+            "size": 235.66,
+            "distance_from_center": 287.2
+        },
+        {
+            "timestamp": 10.37,
+            "size": 236.12,
+            "distance_from_center": 287.55
+        },
+        {
+            "timestamp": 10.41,
+            "size": 236.78,
+            "distance_from_center": 288.04
+        },
+        {
+            "timestamp": 10.45,
+            "size": 236.99,
+            "distance_from_center": 288.51
+        },
+        {
+            "timestamp": 10.49,
+            "size": 236.97,
+            "distance_from_center": 288.56
+        },
+        {
+            "timestamp": 10.53,
+            "size": 236.77,
+            "distance_from_center": 288.87
+        },
+        {
+            "timestamp": 10.58,
+            "size": 236.18,
+            "distance_from_center": 288.7
+        },
+        {
+            "timestamp": 10.62,
+            "size": 235.94,
+            "distance_from_center": 288.75
+        },
+        {
+            "timestamp": 10.66,
+            "size": 235.57,
+            "distance_from_center": 288.74
+        },
+        {
+            "timestamp": 10.7,
+            "size": 235.36,
+            "distance_from_center": 288.82
+        },
+        {
+            "timestamp": 10.74,
+            "size": 235.08,
+            "distance_from_center": 288.9
+        },
+        {
+            "timestamp": 10.78,
+            "size": 235.16,
+            "distance_from_center": 289.09
+        },
+        {
+            "timestamp": 10.83,
+            "size": 235.78,
+            "distance_from_center": 289.49
+        },
+        {
+            "timestamp": 10.87,
+            "size": 235.99,
+            "distance_from_center": 289.75
+        },
+        {
+            "timestamp": 10.91,
+            "size": 236.3,
+            "distance_from_center": 289.75
+        },
+        {
+            "timestamp": 10.95,
+            "size": 236.46,
+            "distance_from_center": 289.78
+        },
+        {
+            "timestamp": 10.99,
+            "size": 236.14,
+            "distance_from_center": 289.85
+        },
+        {
+            "timestamp": 11.04,
+            "size": 236.43,
+            "distance_from_center": 289.99
+        },
+        {
+            "timestamp": 11.08,
+            "size": 236.34,
+            "distance_from_center": 290.2
+        },
+        {
+            "timestamp": 11.12,
+            "size": 236.45,
+            "distance_from_center": 290.36
+        },
+        {
+            "timestamp": 11.16,
+            "size": 236.22,
+            "distance_from_center": 290.51
+        },
+        {
+            "timestamp": 11.2,
+            "size": 236.0,
+            "distance_from_center": 290.64
+        },
+        {
+            "timestamp": 11.24,
+            "size": 236.01,
+            "distance_from_center": 290.78
+        },
+        {
+            "timestamp": 11.29,
+            "size": 235.83,
+            "distance_from_center": 290.73
+        },
+        {
+            "timestamp": 11.33,
+            "size": 235.76,
+            "distance_from_center": 290.66
+        },
+        {
+            "timestamp": 11.37,
+            "size": 236.16,
+            "distance_from_center": 290.84
+        },
+        {
+            "timestamp": 11.41,
+            "size": 236.21,
+            "distance_from_center": 290.88
+        },
+        {
+            "timestamp": 11.45,
+            "size": 236.85,
+            "distance_from_center": 291.18
+        },
+        {
+            "timestamp": 11.5,
+            "size": 237.31,
+            "distance_from_center": 291.5
+        },
+        {
+            "timestamp": 11.54,
+            "size": 237.71,
+            "distance_from_center": 291.8
+        },
+        {
+            "timestamp": 11.58,
+            "size": 238.13,
+            "distance_from_center": 292.09
+        },
+        {
+            "timestamp": 11.62,
+            "size": 237.94,
+            "distance_from_center": 292.25
+        },
+        {
+            "timestamp": 11.66,
+            "size": 238.11,
+            "distance_from_center": 292.35
+        },
+        {
+            "timestamp": 11.7,
+            "size": 238.25,
+            "distance_from_center": 292.66
+        },
+        {
+            "timestamp": 11.75,
+            "size": 238.54,
+            "distance_from_center": 292.85
+        },
+        {
+            "timestamp": 11.79,
+            "size": 238.45,
+            "distance_from_center": 292.91
+        },
+        {
+            "timestamp": 11.83,
+            "size": 238.17,
+            "distance_from_center": 293.06
+        },
+        {
+            "timestamp": 11.87,
+            "size": 238.67,
+            "distance_from_center": 293.31
+        },
+        {
+            "timestamp": 11.91,
+            "size": 238.71,
+            "distance_from_center": 293.34
+        },
+        {
+            "timestamp": 11.96,
+            "size": 238.64,
+            "distance_from_center": 293.47
+        },
+        {
+            "timestamp": 12.0,
+            "size": 238.87,
+            "distance_from_center": 293.53
+        },
+        {
+            "timestamp": 12.04,
+            "size": 239.06,
+            "distance_from_center": 293.58
+        },
+        {
+            "timestamp": 12.08,
+            "size": 239.18,
+            "distance_from_center": 293.5
+        },
+        {
+            "timestamp": 12.12,
+            "size": 238.9,
+            "distance_from_center": 293.41
+        },
+        {
+            "timestamp": 12.16,
+            "size": 117.04,
+            "distance_from_center": 518.14
+        },
+        {
+            "timestamp": 12.21,
+            "size": 117.09,
+            "distance_from_center": 518.16
+        },
+        {
+            "timestamp": 12.25,
+            "size": 117.06,
+            "distance_from_center": 518.14
+        },
+        {
+            "timestamp": 12.29,
+            "size": 117.07,
+            "distance_from_center": 518.13
+        },
+        {
+            "timestamp": 12.33,
+            "size": 116.78,
+            "distance_from_center": 518.22
+        },
+        {
+            "timestamp": 12.37,
+            "size": 117.01,
+            "distance_from_center": 518.18
+        },
+        {
+            "timestamp": 12.41,
+            "size": 116.91,
+            "distance_from_center": 518.18
+        },
+        {
+            "timestamp": 12.46,
+            "size": 116.86,
+            "distance_from_center": 518.2
+        },
+        {
+            "timestamp": 12.5,
+            "size": 116.76,
+            "distance_from_center": 518.19
+        },
+        {
+            "timestamp": 12.54,
+            "size": 116.82,
+            "distance_from_center": 518.16
+        },
+        {
+            "timestamp": 12.58,
+            "size": 116.72,
+            "distance_from_center": 518.21
+        },
+        {
+            "timestamp": 12.62,
+            "size": 116.91,
+            "distance_from_center": 518.12
+        },
+        {
+            "timestamp": 12.67,
+            "size": 116.6,
+            "distance_from_center": 518.23
+        },
+        {
+            "timestamp": 12.71,
+            "size": 116.7,
+            "distance_from_center": 518.21
+        },
+        {
+            "timestamp": 12.75,
+            "size": 116.87,
+            "distance_from_center": 518.16
+        },
+        {
+            "timestamp": 12.79,
+            "size": 116.69,
+            "distance_from_center": 518.2
+        },
+        {
+            "timestamp": 12.83,
+            "size": 116.74,
+            "distance_from_center": 518.16
+        },
+        {
+            "timestamp": 12.87,
+            "size": 116.77,
+            "distance_from_center": 518.11
+        },
+        {
+            "timestamp": 12.92,
+            "size": 116.85,
+            "distance_from_center": 518.16
+        },
+        {
+            "timestamp": 12.96,
+            "size": 116.83,
+            "distance_from_center": 518.16
+        },
+        {
+            "timestamp": 13.0,
+            "size": 116.75,
+            "distance_from_center": 518.16
+        },
+        {
+            "timestamp": 13.04,
+            "size": 116.59,
+            "distance_from_center": 518.18
+        },
+        {
+            "timestamp": 13.08,
+            "size": 116.89,
+            "distance_from_center": 518.07
+        },
+        {
+            "timestamp": 13.13,
+            "size": 116.68,
+            "distance_from_center": 518.22
+        },
+        {
+            "timestamp": 13.17,
+            "size": 116.68,
+            "distance_from_center": 518.23
+        },
+        {
+            "timestamp": 13.21,
+            "size": 116.7,
+            "distance_from_center": 518.22
+        },
+        {
+            "timestamp": 13.25,
+            "size": 116.76,
+            "distance_from_center": 518.24
+        },
+        {
+            "timestamp": 13.29,
+            "size": 116.75,
+            "distance_from_center": 518.22
+        },
+        {
+            "timestamp": 13.33,
+            "size": 116.77,
+            "distance_from_center": 518.22
+        },
+        {
+            "timestamp": 13.38,
+            "size": 116.79,
+            "distance_from_center": 518.2
+        },
+        {
+            "timestamp": 13.42,
+            "size": 116.63,
+            "distance_from_center": 518.25
+        },
+        {
+            "timestamp": 13.46,
+            "size": 116.7,
+            "distance_from_center": 518.22
+        },
+        {
+            "timestamp": 13.5,
+            "size": 116.74,
+            "distance_from_center": 518.26
+        },
+        {
+            "timestamp": 13.54,
+            "size": 116.69,
+            "distance_from_center": 518.25
+        },
+        {
+            "timestamp": 13.59,
+            "size": 116.81,
+            "distance_from_center": 518.23
+        },
+        {
+            "timestamp": 13.63,
+            "size": 116.85,
+            "distance_from_center": 518.25
+        },
+        {
+            "timestamp": 13.67,
+            "size": 116.76,
+            "distance_from_center": 518.25
+        },
+        {
+            "timestamp": 13.71,
+            "size": 116.84,
+            "distance_from_center": 518.2
+        },
+        {
+            "timestamp": 13.75,
+            "size": 116.72,
+            "distance_from_center": 518.26
+        },
+        {
+            "timestamp": 13.79,
+            "size": 116.66,
+            "distance_from_center": 518.24
+        },
+        {
+            "timestamp": 13.84,
+            "size": 116.78,
+            "distance_from_center": 518.25
+        },
+        {
+            "timestamp": 13.88,
+            "size": 116.77,
+            "distance_from_center": 518.27
+        },
+        {
+            "timestamp": 13.92,
+            "size": 116.52,
+            "distance_from_center": 518.3
+        },
+        {
+            "timestamp": 13.96,
+            "size": 116.7,
+            "distance_from_center": 518.15
+        },
+        {
+            "timestamp": 14.0,
+            "size": 116.55,
+            "distance_from_center": 518.26
+        },
+        {
+            "timestamp": 14.05,
+            "size": 116.59,
+            "distance_from_center": 518.3
+        },
+        {
+            "timestamp": 14.09,
+            "size": 116.83,
+            "distance_from_center": 518.12
+        },
+        {
+            "timestamp": 14.13,
+            "size": 116.89,
+            "distance_from_center": 518.24
+        },
+        {
+            "timestamp": 14.17,
+            "size": 116.9,
+            "distance_from_center": 518.18
+        },
+        {
+            "timestamp": 14.21,
+            "size": 116.86,
+            "distance_from_center": 518.23
+        },
+        {
+            "timestamp": 14.25,
+            "size": 116.94,
+            "distance_from_center": 518.23
+        },
+        {
+            "timestamp": 14.3,
+            "size": 116.96,
+            "distance_from_center": 518.18
+        },
+        {
+            "timestamp": 14.34,
+            "size": 116.97,
+            "distance_from_center": 518.17
+        },
+        {
+            "timestamp": 14.38,
+            "size": 116.71,
+            "distance_from_center": 518.26
+        },
+        {
+            "timestamp": 14.42,
+            "size": 116.81,
+            "distance_from_center": 518.23
+        },
+        {
+            "timestamp": 14.46,
+            "size": 116.84,
+            "distance_from_center": 518.23
+        },
+        {
+            "timestamp": 14.5,
+            "size": 116.7,
+            "distance_from_center": 518.26
+        },
+        {
+            "timestamp": 14.55,
+            "size": 116.72,
+            "distance_from_center": 518.22
+        },
+        {
+            "timestamp": 14.59,
+            "size": 116.78,
+            "distance_from_center": 518.25
+        },
+        {
+            "timestamp": 14.63,
+            "size": 116.65,
+            "distance_from_center": 518.25
+        },
+        {
+            "timestamp": 14.67,
+            "size": 116.71,
+            "distance_from_center": 518.26
+        },
+        {
+            "timestamp": 14.71,
+            "size": 116.73,
+            "distance_from_center": 518.26
+        },
+        {
+            "timestamp": 14.76,
+            "size": 116.68,
+            "distance_from_center": 518.29
+        },
+        {
+            "timestamp": 14.8,
+            "size": 116.74,
+            "distance_from_center": 518.24
+        },
+        {
+            "timestamp": 14.84,
+            "size": 116.72,
+            "distance_from_center": 518.22
+        },
+        {
+            "timestamp": 14.88,
+            "size": 116.65,
+            "distance_from_center": 518.22
+        },
+        {
+            "timestamp": 14.92,
+            "size": 117.06,
+            "distance_from_center": 518.08
+        },
+        {
+            "timestamp": 14.96,
+            "size": 116.69,
+            "distance_from_center": 518.26
+        },
+        {
+            "timestamp": 15.01,
+            "size": 116.85,
+            "distance_from_center": 518.21
+        },
+        {
+            "timestamp": 15.05,
+            "size": 116.85,
+            "distance_from_center": 518.16
+        },
+        {
+            "timestamp": 15.09,
+            "size": 116.85,
+            "distance_from_center": 518.23
+        },
+        {
+            "timestamp": 15.13,
+            "size": 116.85,
+            "distance_from_center": 518.22
+        },
+        {
+            "timestamp": 15.17,
+            "size": 116.75,
+            "distance_from_center": 518.25
+        },
+        {
+            "timestamp": 15.22,
+            "size": 116.84,
+            "distance_from_center": 518.15
+        },
+        {
+            "timestamp": 15.26,
+            "size": 116.81,
+            "distance_from_center": 518.24
+        },
+        {
+            "timestamp": 15.3,
+            "size": 116.87,
+            "distance_from_center": 518.24
+        },
+        {
+            "timestamp": 15.34,
+            "size": 116.72,
+            "distance_from_center": 518.27
+        },
+        {
+            "timestamp": 15.38,
+            "size": 116.91,
+            "distance_from_center": 518.2
+        },
+        {
+            "timestamp": 15.42,
+            "size": 116.89,
+            "distance_from_center": 518.24
+        },
+        {
+            "timestamp": 15.47,
+            "size": 116.81,
+            "distance_from_center": 518.25
+        }
+    ],
+    "CocaCola_info": []
+}
