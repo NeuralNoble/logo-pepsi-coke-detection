@@ -3,6 +3,7 @@ This project is a logo detection pipeline that utilizes a YOLO model to detect P
 
 
 ## Requirements
+- python3.9+
 - streamlit
 - gradio
 - av
@@ -12,9 +13,6 @@ This project is a logo detection pipeline that utilizes a YOLO model to detect P
 - opencv-python-headless
 
 ## Setup Instructions
-
-Prerequisites:
-- Ensure you have Python 3.9 or higher installed on your system.
 
 1. Clone the Repository
    ```
@@ -30,8 +28,9 @@ Prerequisites:
 ```
 pip install -r requirements.txt
 ```
-Now there are two ways in which you can use this project either you can directly run the pipeline script or you can run the app with ui and upload the video and get your infrenece result ,heres how you can use both ways .
-1 . Direct Pipeline Script
+Now there are two ways in which you can use this project either you can directly run the pipeline script or you can run the app with ui and upload the video and get your infrenece result ,heres how you can use both ways 
+
+1. Direct Pipeline Script
  ```
 python pipelinev2.py /path/to/your/video.mp4  output.json
 ```
@@ -70,7 +69,7 @@ python gradioApp.py
 
 ```
 
-## Demo 
+## Inference Demo 
 https://github.com/user-attachments/assets/a94180d2-8da3-4e55-92ec-efa3b02d1ab7
 
 
