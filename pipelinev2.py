@@ -107,7 +107,7 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="Logo Detection Pipeline")
     parser.add_argument("video_path", type=str, help="Path to the input video file (.mp4)")
-    model_path = "/Users/amananand/PycharmProjects/logo_detection/models/finalbest.pt"
+    model_path = "models/finalbest.pt"
     output_path = "output.json"
     args = parser.parse_args()
     main(args.video_path, model_path, output_path)
