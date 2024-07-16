@@ -11,10 +11,6 @@ This project is a logo detection pipeline that utilizes a YOLO model to detect P
 | `gradioApp.py` | A WebApp made using gradio (easy for deployment on hugging face) where user can upload video and run inference and download the output.json and the processed video |
 
 
-
-
-
-
 ## Requirements
 - python3.9+
 - streamlit
@@ -81,6 +77,13 @@ python gradioApp.py
 }
 
 ```
+
+## Models 
+| Model | Training Size | mAP<sub>50</sub><sup>val</sup> | mAP<sub>95</sub><sup>val</sup> | epochs |
+|-------|---------------|-------------------------------|-------------------------------|----------|
+| custom2.pt| 376          | 0.69                       | 0.58                          | 100
+| best.pt | 1625          | 0.883                           | 0.605                          | 60
+| finalbest.pt | 1397          | 0.893                           | 0.634                          | 100
 
 ## Inference Demo 
 https://github.com/user-attachments/assets/a94180d2-8da3-4e55-92ec-efa3b02d1ab7
