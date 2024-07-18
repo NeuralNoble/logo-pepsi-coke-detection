@@ -5,7 +5,7 @@ This project is a logo detection pipeline that utilizes a YOLO model to detect P
 
 | File        | Description                                                        |
 |-------------|--------------------------------------------------------------------|
-|`Approach.pdf`| This is the approach document for the problem detailing how i apprached the problem and what was my method and pipeline`|
+|`Approach Document.pdf`| This is the approach document for the problem detailing how i apprached the problem and what was my method and pipeline`|
 | `indexing.py` | Script to convert the label ID of one class by taking a labels file as input.                                |
 | `pipelinev2.py` | Pipeline to detect logos of pepsi and coke in video and save the output in json format with timestamps,size,distance from centre. |
 | `streamlitapp.py` | A WebApp made using streamlit where user can upload video and run inference and download the output.json and the processed video |
