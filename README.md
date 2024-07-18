@@ -88,11 +88,7 @@ python gradioApp.py
 
 ## Inference Demo 
 
-https://github.com/user-attachments/assets/27118304-698e-4aeb-adba-16dc6d1605f5
-
-
-
-
+https://github.com/user-attachments/assets/78a904a4-8a87-45b4-afeb-930c9dbdaafe
 
 
 
