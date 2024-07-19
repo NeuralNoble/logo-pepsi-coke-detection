@@ -87,8 +87,7 @@ python gradioApp.py
 | finalbest.pt | 1397          | 0.893                           | 0.634                          | 100
 
 ## Inference Demo 
-
-https://github.com/user-attachments/assets/78a904a4-8a87-45b4-afeb-930c9dbdaafe
+https://www.loom.com/share/df545a8178d34e159f9b378de2546403?sid=e559e9bd-297d-40b7-8802-eb6ef0117f35
 
 
 
